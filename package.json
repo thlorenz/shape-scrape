@@ -1,0 +1,32 @@
+{
+  "name": "shape-scrape",
+  "version": "0.0.0",
+  "description": "Scrapes shape files from http://data.fs.usda.gov/geodata/edw/datasets.php",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thlorenz/shape-scrape.git"
+  },
+  "homepage": "https://github.com/thlorenz/shape-scrape",
+  "dependencies": {
+    "bytes": "~2.4.0",
+    "cheerio": "~0.20.0",
+    "word-wrap": "~1.1.0"
+  },
+  "devDependencies": {
+  },
+  "keywords": [],
+  "author": {
+    "name": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "http://thlorenz.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/thlorenz/shape-scrape/blob/master/LICENSE"
+  },
+  "engine": {
+    "node": ">=0.10"
+  }
+}
