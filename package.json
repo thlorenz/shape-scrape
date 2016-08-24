@@ -3,7 +3,10 @@
   "version": "0.0.0",
   "description": "Scrapes shape files from http://data.fs.usda.gov/geodata/edw/datasets.php",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "scrape": "node ./lib/sitemap && node ./lib/data",
+    "wget": "sh ./lib/wget-blacklist.sh"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/thlorenz/shape-scrape.git"

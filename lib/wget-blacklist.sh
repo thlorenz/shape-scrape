@@ -1,0 +1,31 @@
+wget -N -c -r --no-parent -X \
+/geo/tiger/TIGER2016/ADDR,\
+/geo/tiger/TIGER2016/ADDRFEAT,\
+/geo/tiger/TIGER2016/ADDRFN,\
+/geo/tiger/TIGER2016/AIANNH,\
+/geo/tiger/TIGER2016/AITSN,\
+/geo/tiger/TIGER2016/ANRC,\
+/geo/tiger/TIGER2016/AREAWATER,\
+/geo/tiger/TIGER2016/CBSA,\
+/geo/tiger/TIGER2016/CD,\
+/geo/tiger/TIGER2016/CNECTA,\
+/geo/tiger/TIGER2016/COASTLINE,\
+/geo/tiger/TIGER2016/CSA,\
+/geo/tiger/TIGER2016/ELSD,\
+/geo/tiger/TIGER2016/FACESAH,\
+/geo/tiger/TIGER2016/FACESMIL,\
+/geo/tiger/TIGER2016/METDIV,\
+/geo/tiger/TIGER2016/MIL,\
+/geo/tiger/TIGER2016/NECTA,\
+/geo/tiger/TIGER2016/NECTADIV,\
+/geo/tiger/TIGER2016/SCSD,\
+/geo/tiger/TIGER2016/SLDL,\
+/geo/tiger/TIGER2016/SLDUk,\
+/geo/tiger/TIGER2016/SUBMCD,\
+/geo/tiger/TIGER2016/TABBLOCK,\
+/geo/tiger/TIGER2016/TBG,\
+/geo/tiger/TIGER2016/TRACT,\
+/geo/tiger/TIGER2016/TTRACT,\
+/geo/tiger/TIGER2016/UNSD,\
+/geo/tiger/TIGER2016/ZCTA5\
+  ftp://ftp2.census.gov/geo/tiger/TIGER2016/
